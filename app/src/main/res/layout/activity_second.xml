@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="24dp"
+    tools:context=".SecondActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:justificationMode="inter_word"
+        android:padding="8sp"
+        android:text="Nature is beauty and beauty is Nature. Everywhere Nature is beautiful in one way or the other. The beauty of Nature has been a source of inspiration and delight to mankind. It is an endless source of joy. Dew drops on the green grass look like pearls. Sunrise is a lovely scene of Nature. Setting Sun, starry night, silvery light of the Moon, snow-covered mountains, deep and dark forests, scent and fragrance of flowers are some of the beauties of Nature. The chirping of birds in trees has a music of its own. In Spring, Nature is at her best. Blooming flowers of different hues fill the air with fragrance. The beauties of Nature soothe our eyes, gladden our hearts and ennoble our souls."
+        android:textColor="?attr/text_color"
+        android:textSize="20sp"
+        tools:ignore="HardcodedText,UnusedAttribute" />
+
+
+</LinearLayout>
